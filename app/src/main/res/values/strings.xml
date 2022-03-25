@@ -1,37 +1,21 @@
 <resources>
-    <string name="app_name">basicComposables</string>
-    <string name="text_compose">Jetpack Compose</string>
-<!--    <string name="title">Title</string>-->
-<!--    <string name="basic_text">Basic Text</string>-->
-<!--    <string name="text_field">Text Field</string>-->
-<!--    <string name="buttons">Buttons</string>-->
-<!--    <string name="progress">Progress</string>-->
-<!--    <string name="alert_dialog">Alert Dialog</string>-->
-<!--    <string name="row">Row</string>-->
-<!--    <string name="column">Column</string>-->
-<!--    <string name="box">Box</string>-->
-<!--    <string name="surface">Surface</string>-->
-<!--    <string name="scaffold">Scaffold</string>-->
-<!--    <string name="scrolling">Scrolling</string>-->
-<!--    <string name="scrolling_row">Scrolling Row</string>-->
-<!--    <string name="grid">Grid</string>-->
-<!--    <string name="grid_lazy">Grid Lazy</string>-->
+    <string name="app_name">Basic Composable</string>
+    <string name="text_compose">Jupiter</string>
+    <string name="text_field">Text Field</string>
+    <string name="button_text">Button</string>
 
+<!--    Alert Dialog-->
+    <string name="dialog_title">Dialog Title</string>
+    <string name="dialog_text">Dialog Text</string>
+    <string name="dialog_button_text">OK</string>
 
-<!--    <array name="titles">-->
-<!--        <item>Basic Text</item>-->
-<!--        <item>Text Field</item>-->
-<!--        <item>Buttons</item>-->
-<!--        <item>Progress</item>-->
-<!--        <item>Alert Dialog</item>-->
-<!--        <item>Row</item>-->
-<!--        <item>Column</item>-->
-<!--        <item>Box</item>-->
-<!--        <item>Surface</item>-->
-<!--        <item>Scaffold</item>-->
-<!--        <item>Scrolling</item>-->
-<!--        <item>Scrolling Row</item>-->
-<!--        <item>Grid</item>-->
-<!--        <item>Grid Lazy</item>-->
-<!--    </array>-->
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+
+<!--    Content Description-->
+    <string name="menu_content_description">Menu</string>
+    <string name="image_description">Image</string>
+    <string name="grid_icon_description">Icon</string>
+
 </resources>
